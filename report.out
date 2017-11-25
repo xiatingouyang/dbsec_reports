@@ -1,0 +1,11 @@
+\BOOKMARK [1][-]{section.1}{Business background}{}% 1
+\BOOKMARK [1][-]{section.2}{Database design}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Entity-relation diagram}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Table schema}{section.2}% 4
+\BOOKMARK [1][-]{section.3}{Functional requirement}{}% 5
+\BOOKMARK [1][-]{section.4}{Security policies and enforcement}{}% 6
+\BOOKMARK [2][-]{subsection.4.1}{Security requirement}{section.4}% 7
+\BOOKMARK [2][-]{subsection.4.2}{Security mechanism}{section.4}% 8
+\BOOKMARK [1][-]{section.5}{Contributions}{}% 9
+\BOOKMARK [1][-]{section.6}{Checklist of features}{}% 10
+\BOOKMARK [1][-]{section.7}{Testing URL}{}% 11

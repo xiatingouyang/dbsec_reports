@@ -1,0 +1,11 @@
+\contentsline {section}{\numberline {1}Business background}{3}{section.1}
+\contentsline {section}{\numberline {2}Database design}{3}{section.2}
+\contentsline {subsection}{\numberline {2.1}Entity-relation diagram}{3}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Table schema}{3}{subsection.2.2}
+\contentsline {section}{\numberline {3}Functional requirement}{3}{section.3}
+\contentsline {section}{\numberline {4}Security policies and enforcement}{3}{section.4}
+\contentsline {subsection}{\numberline {4.1}Security requirement}{3}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Security mechanism}{3}{subsection.4.2}
+\contentsline {section}{\numberline {5}Contributions}{3}{section.5}
+\contentsline {section}{\numberline {6}Checklist of features}{3}{section.6}
+\contentsline {section}{\numberline {7}Testing URL}{3}{section.7}
